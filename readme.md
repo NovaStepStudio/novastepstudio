@@ -53,7 +53,7 @@ Trabajo principalmente en **Ubuntu** y aplico principios de **código abierto, m
 ## 📊 Estadísticas de GitLab
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=novastepstudio&show_icons=true&theme=radical)
 
-| <a href="https://gitlab.com/novastepstudio"><img src="https://gitlab-readme-stats.vercel.app/api?username=novastepstudio&show_icons=true&hide_border=true&theme=radical" alt="Santiago's GitLab stats" /></a> | <a href="https://gitlab.com/novastepstudio"><img src="https://gitlab-readme-stats.vercel.app/api/top-langs/?username=novastepstudio&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /></a> |
+| <a href="https://github.com/novastepstudio"><img src="https://github-readme-stats.vercel.app/api?username=novastepstudio&show_icons=true&hide_border=true&theme=radical" alt="Santiago's GitHub stats" /></a> | <a href="https://github.com/novastepstudio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novastepstudio&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
@@ -76,3 +76,4 @@ Trabajo principalmente en **Ubuntu** y aplico principios de **código abierto, m
 **Mercado Pago**  
 - CVU: `0000003100051190149138`  
 - Alias: `stepnickasantiago`
+
